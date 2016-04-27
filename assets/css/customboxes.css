@@ -1,0 +1,20 @@
+/*-------------------------- Put all of your Custom Classes here - Go nuts --------------------------*/
+#top,
+#bottom {
+	min-height: 25vh;
+}
+#main {
+	min-height: 100vh;
+}
+.content-box {
+	min-height: 60vh;
+}
+/*-------------------------- Media Queries --------------------------*/
+/* Tablet Width Classes */
+@media (max-width: 1024px) {
+	
+}
+/* Mobile Width Classes */
+@media (max-width: 680px) {
+	
+}
