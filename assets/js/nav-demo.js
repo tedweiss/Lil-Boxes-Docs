@@ -1,4 +1,7 @@
 $(window).on('resize', function() {
+    $('.hamburger').click(function(){
+        $(this).toggleClass('open');
+    });
 	if ($(window).width() <= 720) {  
 		$('.sub-link').on('click', function() {
 			var menu = $(this).next('ul');
