@@ -1,3 +1,14 @@
+.social i, .info i {
+	font-size: 30px;
+	color: blue;
+}
+.social li {
+	margin: 0 1%;
+}
+.social {
+	right: -35%;
+	margin-bottom: 20px;
+}
 .collapse {
 	display: none;
 	cursor: pointer;
@@ -36,31 +47,31 @@
 }
 
 @media screen and (max-width: 720px) {
-#nav-bar .sub-link::after {
-	content: "";
-	position: absolute;
-	width: 15px;
-	height: 0;
-	border: 8px solid transparent;
-	left: 50%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-	transform: translateX(-50%);
-	border-top-color: rgba(0,0,0,.25);
-}
-#nav-bar li ul .has-sub .sub-link::after {
-	border: 0;
-}
-li ul .has-sub h3::after {
-	content: "";
-	position: absolute;
-	width: 15px;
-	height: 0;
-	border: 8px solid transparent;
-	border-top-color: rgba(0,0,0,.25);
-	margin-left: 10px;
-	margin-top: 14px;
-}
+	#nav-bar .sub-link::after {
+		content: "";
+		position: absolute;
+		width: 15px;
+		height: 0;
+		border: 8px solid transparent;
+		left: 50%;
+	    -webkit-transform: translateX(-50%);
+	    -ms-transform: translateX(-50%);
+		transform: translateX(-50%);
+		border-top-color: rgba(0,0,0,.25);
+	}
+	#nav-bar li ul .has-sub .sub-link::after {
+		border: 0;
+	}
+	li ul .has-sub h3::after {
+		content: "";
+		position: absolute;
+		width: 15px;
+		height: 0;
+		border: 8px solid transparent;
+		border-top-color: rgba(0,0,0,.25);
+		margin-left: 10px;
+		margin-top: 14px;
+	}
 	.collapse {
 		display: block;
 		position: absolute;
@@ -74,6 +85,31 @@ li ul .has-sub h3::after {
 	    display: none;
 	}
 	.collapse +input:checked + * {
+	    display: block;
+	}
+	.info {
+		position: absolute;
+		left: 4%;
+		margin-top: 17px;
+		width: 30px;
+	}
+	.social {
+		position: absolute;
+		left: 70px;
+		margin-top: 7px;
+		margin-bottom: 0;
+		width: 65%;
+	}
+	.social li{
+		display: inline-block;
+	}
+	.info + input {
+	    display: none;
+	}
+	.info + input + * {
+	    display: none;
+	}
+	.info +input:checked + * {
 	    display: block;
 	}
 	.menu-label {
