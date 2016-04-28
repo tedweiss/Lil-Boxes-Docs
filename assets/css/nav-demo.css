@@ -56,6 +56,12 @@ nav {
     display: -ms-flexbox;
     display: flex;
 }
+.sub-sub-link:hover+.sub, .sub-link:hover+.sub,
+.sub:hover {
+    display: block;
+    left: 0;
+    z-index: 5;
+}
 
 @media screen and (max-width: 720px) {
 	.arrow-up::after, .arrow-down::after, .down-arrow::after, .up-arrow::after {
@@ -90,6 +96,10 @@ nav {
 		transform: translateX(-50%);
 		border-bottom-color: rgba(0,0,0,.25);
 		margin-top: 19px;
+	}
+	.sub-sub-link:hover+.sub, .sub-link:hover+.sub,
+	.sub:hover {
+	    display: none;
 	}
 /*	#nav-bar .sub-link::after {
 		content: "";
