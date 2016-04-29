@@ -56,6 +56,7 @@ nav {
     display: -ms-flexbox;
     display: flex;
 }
+<<<<<<< HEAD
 .sub-sub-link:hover+.sub, .sub-link:hover+.sub, .sub:hover {
     display: block;
     left: 0;
@@ -141,6 +142,44 @@ nav {
 	    display: none;
 	}
 	.arrow-up::after, .arrow-down::after, .down-arrow::after, .up-arrow::after {
+=======
+
+@media screen and (max-width: 720px) {
+	.arrow-up::after, .arrow-down::after, .down-arrow::after, .up-arrow::after {
+		content: "";
+		position: absolute;
+		width: 15px;
+		height: 0;
+		border: 8px solid transparent;
+	}
+	.arrow-up::after {
+		border-bottom-color: rgba(0,0,0,.25);
+		margin-left: 10px;
+		margin-top: 6px;
+	}
+	.arrow-down::after {
+		border-top-color: rgba(0,0,0,.25);
+		margin-left: 10px;
+		margin-top: 14px;
+	}
+	.down-arrow::after {
+		left: 50%;
+	    -webkit-transform: translateX(-50%);
+	    -ms-transform: translateX(-50%);
+		transform: translateX(-50%);
+		border-top-color: rgba(0,0,0,.25);
+		margin-top: 27px;
+	}
+	.up-arrow::after {
+		left: 50%;
+	    -webkit-transform: translateX(-50%);
+	    -ms-transform: translateX(-50%);
+		transform: translateX(-50%);
+		border-bottom-color: rgba(0,0,0,.25);
+		margin-top: 19px;
+	}
+/*	#nav-bar .sub-link::after {
+>>>>>>> e8105fe... drop-down arrow on li on regular nav, on h3 on mobile nav; mobile drop-down arrow up & down on click
 		content: "";
 		position: absolute;
 		width: 15px;
