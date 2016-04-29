@@ -1,0 +1,59 @@
+	div {
+		margin: 0;
+		padding: 0;
+	}
+	span {
+		font-size: 16px;
+		font-family: Consolas;
+	}
+	.code-element-color {
+		color: rgb(249, 38, 114);
+	}
+	.code-class-id-color {
+		color: rgb(127, 226, 46);
+	}
+	.code-function-color {
+		color: rgb(102, 217, 239);
+	}
+	.code-number-color {
+		color: rgb(174, 129, 255);
+	}
+	.code-quotes-color {
+		color: rgb(230, 219, 116);
+	}
+	.code-text-color {
+		color: rgb(248, 248, 242);
+	}
+	.code-comment-color {
+		color: rgb(117, 113, 94);
+	}
+	.code-background-color {
+		background-color: rgb(39, 40, 34);
+	}
+	.indent {
+		margin-left: 20px;
+	}
+	.indent-2 {
+		margin-left: 40px;
+	}
+	.indent-3 {
+		margin-left: 60px;
+	}
+	.indent-4 {
+		margin-left: 80px;
+	}
+	.indent-5 {
+		margin-left: 100px;
+	}
+	.indent-6 {
+		margin-left: 120px;
+	}
+	.indent-7 {
+		margin-left: 140px;
+	}
+	.indent-8 {
+		margin-left: 160px;
+	}
+	.indent-9 {
+		margin-left: 180px;
+	}
