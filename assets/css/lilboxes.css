@@ -2226,35 +2226,35 @@ h3.woggle:hover {
 }
 
 .tx-black {
-    color: #000;
+    color: #000000;
 }
 
 .tx-black-a {
-    color: rgba(0, 0, 0, .9);
+    color: #191919;
 }
 
 .tx-black-b {
-    color: rgba(0, 0, 0, .75);
+    color: #3f3f3f;
 }
 
 .tx-black-c {
-    color: rgba(0, 0, 0, .66);
+    color: #565656;
 }
 
 .tx-black-d {
-    color: rgba(0, 0, 0, .5);
+    color: #7f7f7f;
 }
 
 .tx-black-e {
-    color: rgba(0, 0, 0, .33);
+    color: #aaaaaa;
 }
 
 .tx-black-f {
-    color: rgba(0, 0, 0, .25);
+    color: #bfbfbf;
 }
 
 .tx-black-g {
-    color: rgba(0, 0, 0, .1);
+    color: #e5e5e5;
 }
 
 .tx-blue {
@@ -2262,31 +2262,31 @@ h3.woggle:hover {
 }
 
 .tx-blue-a {
-    color: rgba(59, 91, 210, .9);
+    color: #4e6bd6;
 }
 
 .tx-blue-b {
-    color: rgba(59, 91, 210, .75);
+    color: #6c84dd;
 }
 
 .tx-blue-c {
-    color: rgba(59, 91, 210, .66);
+    color: #7d92e1;
 }
 
 .tx-blue-d {
-    color: rgba(59, 91, 210, .5);
+    color: #9dade8;
 }
 
 .tx-blue-e {
-    color: rgba(59, 91, 210, .33);
+    color: #bec8f0;
 }
 
 .tx-blue-f {
-    color: rgba(59, 91, 210, .25);
+    color: #ced6f3;
 }
 
 .tx-blue-g {
-    color: rgba(59, 91, 210, .1);
+    color: #ebeefa;
 }
 
 .tx-brown {
@@ -2294,31 +2294,31 @@ h3.woggle:hover {
 }
 
 .tx-brown-a {
-    color: rgba(94, 70, 21, .9);
+    color: #6e582c;
 }
 
 .tx-brown-b {
-    color: rgba(94, 70, 21, .75);
+    color: #86744f;
 }
 
 .tx-brown-c {
-    color: rgba(94, 70, 21, .66);
+    color: #948464;
 }
 
 .tx-brown-d {
-    color: rgba(94, 70, 21, .5);
+    color: #aea28a;
 }
 
 .tx-brown-e {
-    color: rgba(94, 70, 21, .33);
+    color: #c9c1b1;
 }
 
 .tx-brown-f {
-    color: rgba(94, 70, 21, .25);
+    color: #d6d0c4;
 }
 
 .tx-brown-g {
-    color: rgba(94, 70, 21, .1);
+    color: #eeece7;
 }
 
 .tx-cyan {
@@ -2326,31 +2326,31 @@ h3.woggle:hover {
 }
 
 .tx-cyan-a {
-    color: rgba(59, 247, 241, .9);
+    color: #4ef7f2;
 }
 
 .tx-cyan-b {
-    color: rgba(59, 247, 241, .75);
+    color: #6cf9f4;
 }
 
 .tx-cyan-c {
-    color: rgba(59, 247, 241, .66);
+    color: #7df9f5;
 }
 
 .tx-cyan-d {
-    color: rgba(59, 247, 241, .5);
+    color: #9dfbf8;
 }
 
 .tx-cyan-e {
-    color: rgba(59, 247, 241, .33);
+    color: #befcfa;
 }
 
 .tx-cyan-f {
-    color: rgba(59, 247, 241, .25);
+    color: #cefdfb;
 }
 
 .tx-cyan-g {
-    color: rgba(59, 247, 241, .1);
+    color: #ebfefd;
 }
 
 .tx-dark {
@@ -2358,31 +2358,31 @@ h3.woggle:hover {
 }
 
 .tx-dark-a {
-    color: rgba(25, 25, 25, .9);
+    color: #2f2f2f;
 }
 
 .tx-dark-b {
-    color: rgba(25, 25, 25, .75);
+    color: #525252;
 }
 
 .tx-dark-c {
-    color: rgba(25, 25, 25, .66);
+    color: #676767;
 }
 
 .tx-dark-d {
-    color: rgba(25, 25, 25, .5);
+    color: #8c8c8c;
 }
 
 .tx-dark-e {
-    color: rgba(25, 25, 25, .33);
+    color: #b3b3b3;
 }
 
 .tx-dark-f {
-    color: rgba(25, 25, 25, .25);
+    color: #c5c5c5;
 }
 
 .tx-dark-g {
-    color: rgba(25, 25, 25, .1);
+    color: #e8e8e8;
 }
 
 .tx-flame {
@@ -2390,31 +2390,31 @@ h3.woggle:hover {
 }
 
 .tx-flame-a {
-    color: rgba(255, 25, 0, .9);
+    color: #ff2f19;
 }
 
 .tx-flame-b {
-    color: rgba(255, 25, 0, .75);
+    color: #ff523f;
 }
 
 .tx-flame-c {
-    color: rgba(255, 25, 0, .66);
+    color: #ff6756;
 }
 
 .tx-flame-d {
-    color: rgba(255, 25, 0, .5);
+    color: #ff8c7f;
 }
 
 .tx-flame-e {
-    color: rgba(255, 25, 0, .33);
+    color: #ffb3aa;
 }
 
 .tx-flame-f {
-    color: rgba(255, 25, 0, .25);
+    color: #ffc5bf;
 }
 
 .tx-flame-g {
-    color: rgba(255, 25, 0, .1);
+    color: #ffe8e5;
 }
 
 .tx-gold {
@@ -2422,31 +2422,31 @@ h3.woggle:hover {
 }
 
 .tx-gold-a {
-    color: rgba(201, 180, 62, .9);
+    color: #cebb51;
 }
 
 .tx-gold-b {
-    color: rgba(201, 180, 62, .75);
+    color: #d6c66e;
 }
 
 .tx-gold-c {
-    color: rgba(201, 180, 62, .66);
+    color: #dbcd7f;
 }
 
 .tx-gold-d {
-    color: rgba(201, 180, 62, .5);
+    color: #e4d99e;
 }
 
 .tx-gold-e {
-    color: rgba(201, 180, 62, .33);
+    color: #ede6bf;
 }
 
 .tx-gold-f {
-    color: rgba(201, 180, 62, .25);
+    color: #f1ecce;
 }
 
 .tx-gold-g {
-    color: rgba(201, 180, 62, .1);
+    color: #f9f7eb;
 }
 
 .tx-green {
@@ -2454,31 +2454,31 @@ h3.woggle:hover {
 }
 
 .tx-green-a {
-    color: rgba(25, 140, 27, .9);
+    color: #2f9731;
 }
 
 .tx-green-b {
-    color: rgba(25, 140, 27, .75);
+    color: #52a854;
 }
 
 .tx-green-c {
-    color: rgba(25, 140, 27, .66);
+    color: #67b368;
 }
 
 .tx-green-d {
-    color: rgba(25, 140, 27, .5);
+    color: #8cc58d;
 }
 
 .tx-green-e {
-    color: rgba(25, 140, 27, .33);
+    color: #b3d9b3;
 }
 
 .tx-green-f {
-    color: rgba(25, 140, 27, .25);
+    color: #c5e2c6;
 }
 
 .tx-green-g {
-    color: rgba(25, 140, 27, .1);
+    color: #e8f3e8;
 }
 
 .tx-grey {
@@ -2486,31 +2486,31 @@ h3.woggle:hover {
 }
 
 .tx-grey-a {
-    color: rgba(74, 79, 84, .9);
+    color: #5c6065;
 }
 
 .tx-grey-b {
-    color: rgba(74, 79, 84, .75);
+    color: #777b7e;
 }
 
 .tx-grey-c {
-    color: rgba(74, 79, 84, .66);
+    color: #878a8e;
 }
 
 .tx-grey-d {
-    color: rgba(74, 79, 84, .5);
+    color: #a4a7a9;
 }
 
 .tx-grey-e {
-    color: rgba(74, 79, 84, .33);
+    color: #c3c4c6;
 }
 
 .tx-grey-f {
-    color: rgba(74, 79, 84, .25);
+    color: #d1d3d4;
 }
 
 .tx-grey-g {
-    color: rgba(74, 79, 84, .1);
+    color: #eceded;
 }
 
 .tx-lime {
@@ -2518,31 +2518,31 @@ h3.woggle:hover {
 }
 
 .tx-lime-a {
-    color: rgba(158, 219, 52, .9);
+    color: #a7de48;
 }
 
 .tx-lime-b {
-    color: rgba(158, 219, 52, .75);
+    color: #b6e466;
 }
 
 .tx-lime-c {
-    color: rgba(158, 219, 52, .66);
+    color: #bee779;
 }
 
 .tx-lime-d {
-    color: rgba(158, 219, 52, .5);
+    color: #ceed99;
 }
 
 .tx-lime-e {
-    color: rgba(158, 219, 52, .33);
+    color: #def3bc;
 }
 
 .tx-lime-f {
-    color: rgba(158, 219, 52, .25);
+    color: #e6f6cc;
 }
 
 .tx-lime-g {
-    color: rgba(158, 219, 52, .1);
+    color: #f5fbea;
 }
 
 .tx-magenta {
@@ -2550,31 +2550,31 @@ h3.woggle:hover {
 }
 
 .tx-magenta-a {
-    color: rgba(230, 40, 255, .9);
+    color: #e83dff;
 }
 
 .tx-magenta-b {
-    color: rgba(230, 40, 255, .75);
+    color: #ec5dff;
 }
 
 .tx-magenta-c {
-    color: rgba(230, 40, 255, .66);
+    color: #ee71ff;
 }
 
 .tx-magenta-d {
-    color: rgba(230, 40, 255, .5);
+    color: #f293ff;
 }
 
 .tx-magenta-e {
-    color: rgba(230, 40, 255, .33);
+    color: #f6b8ff;
 }
 
 .tx-magenta-f {
-    color: rgba(230, 40, 255, .25);
+    color: #f8c9ff;
 }
 
 .tx-magenta-g {
-    color: rgba(230, 40, 255, .1);
+    color: #fce9ff;
 }
 
 .tx-maroon {
@@ -2582,31 +2582,31 @@ h3.woggle:hover {
 }
 
 .tx-maroon-a {
-    color: rgba(96, 33, 50, .9);
+    color: #6f3746;
 }
 
 .tx-maroon-b {
-    color: rgba(96, 33, 50, .75);
+    color: #875865;
 }
 
 .tx-maroon-c {
-    color: rgba(96, 33, 50, .66);
+    color: #966c77;
 }
 
 .tx-maroon-d {
-    color: rgba(96, 33, 50, .5);
+    color: #af9098;
 }
 
 .tx-maroon-e {
-    color: rgba(96, 33, 50, .33);
+    color: #cab5bb;
 }
 
 .tx-maroon-f {
-    color: rgba(96, 33, 50, .25);
+    color: #d7c7cb;
 }
 
 .tx-maroon-g {
-    color: rgba(96, 33, 50, .1);
+    color: #efe8ea;
 }
 
 .tx-navy {
@@ -2614,31 +2614,31 @@ h3.woggle:hover {
 }
 
 .tx-navy-a {
-    color: rgba(3, 2, 72, .9);
+    color: #1c1b5a;
 }
 
 .tx-navy-b {
-    color: rgba(3, 2, 72, .75);
+    color: #424175;
 }
 
 .tx-navy-c {
-    color: rgba(3, 2, 72, .66);
+    color: #585886;
 }
 
 .tx-navy-d {
-    color: rgba(3, 2, 72, .5);
+    color: #8180a3;
 }
 
 .tx-navy-e {
-    color: rgba(3, 2, 72, .33);
+    color: #ababc2;
 }
 
 .tx-navy-f {
-    color: rgba(3, 2, 72, .25);
+    color: #c0bfd1;
 }
 
 .tx-navy-g {
-    color: rgba(3, 2, 72, .1);
+    color: #e5e5ec;
 }
 
 .tx-orange {
@@ -2646,63 +2646,63 @@ h3.woggle:hover {
 }
 
 .tx-orange-a {
-    color: rgba(219, 86, 0, .9);
+    color: #de6619;
 }
 
 .tx-orange-b {
-    color: rgba(219, 86, 0, .75);
+    color: #e4803f;
 }
 
 .tx-orange-c {
-    color: rgba(219, 86, 0, .66);
+    color: #e78f56;
 }
 
 .tx-orange-d {
-    color: rgba(219, 86, 0, .5);
+    color: #edaa7f;
 }
 
 .tx-orange-e {
-    color: rgba(219, 86, 0, .33);
+    color: #f3c7aa;
 }
 
 .tx-orange-f {
-    color: rgba(219, 86, 0, .25);
+    color: #f6d4bf;
 }
 
 .tx-orange-g {
-    color: rgba(219, 86, 0, .1);
+    color: #fbeee5;
 }
 
 .tx-pale {
-    color: #ffc;
+    color: #ffcffc;
 }
 
 .tx-pale-a {
-    color: rgba(255, 255, 204, .9);
+    color: #ffffd1;
 }
 
 .tx-pale-b {
-    color: rgba(255, 255, 204, .75);
+    color: #ffffd8;
 }
 
 .tx-pale-c {
-    color: rgba(255, 255, 204, .66);
+    color: #ffffdd;
 }
 
 .tx-pale-d {
-    color: rgba(255, 255, 204, .5);
+    color: #ffffe5;
 }
 
 .tx-pale-e {
-    color: rgba(255, 255, 204, .33);
+    color: #ffffee;
 }
 
 .tx-pale-f {
-    color: rgba(255, 255, 204, .25);
+    color: #fffff2;
 }
 
 .tx-pale-g {
-    color: rgba(255, 255, 204, .1);
+    color: #fffff9;
 }
 
 .tx-pink {
@@ -2710,31 +2710,31 @@ h3.woggle:hover {
 }
 
 .tx-pink-a {
-    color: rgba(252, 106, 201, .9);
+    color: #fc78ce;
 }
 
 .tx-pink-b {
-    color: rgba(252, 106, 201, .75);
+    color: #fc8fd6;
 }
 
 .tx-pink-c {
-    color: rgba(252, 106, 201, .66);
+    color: #fd9cdb;
 }
 
 .tx-pink-d {
-    color: rgba(252, 106, 201, .5);
+    color: #fdb4e4;
 }
 
 .tx-pink-e {
-    color: rgba(252, 106, 201, .33);
+    color: #fecded;
 }
 
 .tx-pink-f {
-    color: rgba(252, 106, 201, .25);
+    color: #fed9f1;
 }
 
 .tx-pink-g {
-    color: rgba(252, 106, 201, .1);
+    color: #fef0f9;
 }
 
 .tx-purple {
@@ -2742,31 +2742,31 @@ h3.woggle:hover {
 }
 
 .tx-purple-a {
-    color: rgba(129, 1, 149, .9);
+    color: #8d1a9f;
 }
 
 .tx-purple-b {
-    color: rgba(129, 1, 149, .75);
+    color: #a040af;
 }
 
 .tx-purple-c {
-    color: rgba(129, 1, 149, .66);
+    color: #ab57b9;
 }
 
 .tx-purple-d {
-    color: rgba(129, 1, 149, .5);
+    color: #c080ca;
 }
 
 .tx-purple-e {
-    color: rgba(129, 1, 149, .33);
+    color: #d5abdc;
 }
 
 .tx-purple-f {
-    color: rgba(129, 1, 149, .25);
+    color: #dfbfe4;
 }
 
 .tx-purple-g {
-    color: rgba(129, 1, 149, .1);
+    color: #f2e5f4;
 }
 
 .tx-red {
@@ -2774,31 +2774,31 @@ h3.woggle:hover {
 }
 
 .tx-red-a {
-    color: rgba(156, 8, 22, .9);
+    color: #a5202d;
 }
 
 .tx-red-b {
-    color: rgba(156, 8, 22, .75);
+    color: #b44550;
 }
 
 .tx-red-c {
-    color: rgba(156, 8, 22, .66);
+    color: #bd5b65;
 }
 
 .tx-red-d {
-    color: rgba(156, 8, 22, .5);
+    color: #cd838a;
 }
 
 .tx-red-e {
-    color: rgba(156, 8, 22, .33);
+    color: #deadb2;
 }
 
 .tx-red-f {
-    color: rgba(156, 8, 22, .25);
+    color: #e6c1c4;
 }
 
 .tx-red-g {
-    color: rgba(156, 8, 22, .1);
+    color: #f5e6e7;
 }
 
 .tx-salmon {
@@ -2806,31 +2806,31 @@ h3.woggle:hover {
 }
 
 .tx-salmon-a {
-    color: rgba(255, 153, 147, .9);
+    color: #ffa39d;
 }
 
 .tx-salmon-b {
-    color: rgba(255, 153, 147, .75);
+    color: #ffb2ae;
 }
 
 .tx-salmon-c {
-    color: rgba(255, 153, 147, .66);
+    color: #ffbbb7;
 }
 
 .tx-salmon-d {
-    color: rgba(255, 153, 147, .5);
+    color: #ffccc9;
 }
 
 .tx-salmon-e {
-    color: rgba(255, 153, 147, .33);
+    color: #ffdddb;
 }
 
 .tx-salmon-f {
-    color: rgba(255, 153, 147, .25);
+    color: #ffe5e4;
 }
 
 .tx-salmon-g {
-    color: rgba(255, 153, 147, .1);
+    color: #fff4f4;
 }
 
 .tx-silver {
@@ -2838,31 +2838,31 @@ h3.woggle:hover {
 }
 
 .tx-silver-a {
-    color: rgba(188, 188, 188, .9);
+    color: #c2c2c2;
 }
 
 .tx-silver-b {
-    color: rgba(188, 188, 188, .75);
+    color: #cccccc;
 }
 
 .tx-silver-c {
-    color: rgba(188, 188, 188, .66);
+    color: #d2d2d2;
 }
 
 .tx-silver-d {
-    color: rgba(188, 188, 188, .5);
+    color: #dddddd;
 }
 
 .tx-silver-e {
-    color: rgba(188, 188, 188, .33);
+    color: #e8e8e8;
 }
 
 .tx-silver-f {
-    color: rgba(188, 188, 188, .25);
+    color: #eeeeee;
 }
 
 .tx-silver-g {
-    color: rgba(188, 188, 188, .1);
+    color: #f8f8f8;
 }
 
 .tx-tan {
@@ -2870,31 +2870,31 @@ h3.woggle:hover {
 }
 
 .tx-tan-a {
-    color: rgba(198, 180, 147, .9);
+    color: #cbbb9d;
 }
 
 .tx-tan-b {
-    color: rgba(198, 180, 147, .75);
+    color: #d4c6ae;
 }
 
 .tx-tan-c {
-    color: rgba(198, 180, 147, .66);
+    color: #d9cdb7;
 }
 
 .tx-tan-d {
-    color: rgba(198, 180, 147, .5);
+    color: #e2d9c9;
 }
 
 .tx-tan-e {
-    color: rgba(198, 180, 147, .33);
+    color: #ece6db;
 }
 
 .tx-tan-f {
-    color: rgba(198, 180, 147, .25);
+    color: #f0ece4;
 }
 
 .tx-tan-g {
-    color: rgba(198, 180, 147, .1);
+    color: #f9f7f4;
 }
 
 .tx-teal {
@@ -2902,31 +2902,31 @@ h3.woggle:hover {
 }
 
 .tx-teal-a {
-    color: rgba(2, 128, 145, .9);
+    color: #1b8c9c;
 }
 
 .tx-teal-b {
-    color: rgba(2, 128, 145, .75);
+    color: #419fac;
 }
 
 .tx-teal-c {
-    color: rgba(2, 128, 145, .66);
+    color: #58abb6;
 }
 
 .tx-teal-d {
-    color: rgba(2, 128, 145, .5);
+    color: #80bfc8;
 }
 
 .tx-teal-e {
-    color: rgba(2, 128, 145, .33);
+    color: #abd5da;
 }
 
 .tx-teal-f {
-    color: rgba(2, 128, 145, .25);
+    color: #bfdfe3;
 }
 
 .tx-teal-g {
-    color: rgba(2, 128, 145, .1);
+    color: #e5f2f4;
 }
 
 .tx-transparent {
@@ -2939,37 +2939,37 @@ h3.woggle:hover {
 }
 
 .tx-violet-a {
-    color: rgba(92, 7, 188, .9);
+    color: #6c1fc2;
 }
 
 .tx-violet-b {
-    color: rgba(92, 7, 188, .75);
+    color: #8445cc;
 }
 
 .tx-violet-c {
-    color: rgba(92, 7, 188, .66);
+    color: #935bd2;
 }
 
 .tx-violet-d {
-    color: rgba(92, 7, 188, .5);
+    color: #ad83dd;
 }
 
 .tx-violet-e {
-    color: rgba(92, 7, 188, .33);
+    color: #c9ade8;
 }
 
 .tx-violet-f {
-    color: rgba(92, 7, 188, .25);
+    color: #d6c1ee;
 }
 
 .tx-violet-g {
-    color: rgba(92, 7, 188, .1);
+    color: #eee6f8;
 }
 
 .tx-white {
-    color: #fff;
+    color: #ffffff;
 }
-
+/*These are transparent*/
 .tx-white-a {
     color: rgba(255, 255, 255, .9);
 }
@@ -3003,31 +3003,31 @@ h3.woggle:hover {
 }
 
 .tx-yellow-a {
-    color: rgba(255, 183, 54, .9);
+    color: #ffbe4a;
 }
 
 .tx-yellow-b {
-    color: rgba(255, 183, 54, .75);
+    color: #ffc968;
 }
 
 .tx-yellow-c {
-    color: rgba(255, 183, 54, .66);
+    color: #ffcf7a;
 }
 
 .tx-yellow-d {
-    color: rgba(255, 183, 54, .5);
+    color: #ffdb9a;
 }
 
 .tx-yellow-e {
-    color: rgba(255, 183, 54, .33);
+    color: #ffe7bc;
 }
 
 .tx-yellow-f {
-    color: rgba(255, 183, 54, .25);
+    color: #ffedcc;
 }
 
 .tx-yellow-g {
-    color: rgba(255, 183, 54, .1);
+    color: #fff7ea;
 }
 
 .tx-center {
