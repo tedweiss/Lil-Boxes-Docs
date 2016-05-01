@@ -78,6 +78,18 @@ img {
     transition: all .3s ease;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
 .tx-omg {
     font-size: 9rem;
 }
@@ -3122,8 +3134,16 @@ h3.woggle:hover {
     font-family: Smokum, serif;
 }
 
-.caps {
+.capitalize {
+    text-transform: capitalize;
+}
+
+.uppercase {
     text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
 }
 
 .tx-shadow {
