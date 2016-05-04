@@ -146,17 +146,6 @@ a.bx-white:hover {
     color: rgba(0, 0, 0, .5);
 }
 
-a,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    transition: all .3s ease;
-}
-
 code {
     width: 80%;
     font-family: "Source Code Pro", sans-serif;
